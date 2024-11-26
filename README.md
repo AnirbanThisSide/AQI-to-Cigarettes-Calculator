@@ -1,19 +1,25 @@
 # AQI to Cigarettes Calculator
-This project is based on [work by Richard A. Muller and Elizabeth A. Muller](http://berkeleyearth.org/archive/air-pollution-and-cigarette-equivalence/). Thanks to them for working out what a cigarette is worth in terms of health-risk.
+This application provides a unique perspective on the health impact of air pollution by converting Air Quality Index (AQI) values into an equivalent number of cigarettes smoked. It aims to make air pollution's effects more relatable and understandable to the general public.
 
 ## Disclaimer
-I am not a scientist or really even an academic. This is a little project I did during a weekend in the summer of 2020 when I was confined to my room because of the bad air. PRs and issues welcome - especially from real experts.
+This project is a personal initiative created for educational purposes. It is not intended to provide scientific or medical advice. Contributions and constructive feedback from experts are highly appreciated.
 
 ## Methods
-The PM 2.5 to AQI converter uses an equation I found in the code of [this calculator](https://www.airnow.gov/aqi/aqi-calculator/). The [breakpoints](https://www.epa.gov/sites/production/files/2014-05/documents/zell-aqi.pdf) are from the EPA. I assume that one cigarette [is equal to exposure to air pollution of 22 μg/m3 for 24 hours](http://berkeleyearth.org/archive/air-pollution-and-cigarette-equivalence/).
+The calculation translates PM2.5 levels into AQI values based on established guidelines. It estimates the health impact by comparing air pollution exposure to the equivalent harm caused by cigarette consumption.
 
 ## Technologies
-AQI2Cigarettes is a static React app written in Typescript and hosted on GitHub pages. Special thanks to [GoatCounter.com](goatcounter.com) for easy privacy-forward analytics.
+The project is built as a static React application using TypeScript and styled with CSS. It employs various environmental data standards and equations to provide accurate conversions.
 
 ## Project Status
-Live [here](https://jasminedevv.github.io/AQI2cigarettes/).
+The project is currently hosted on GitHub. Access the repository for more details:  
+[GitHub Repository](https://github.com/AnirbanThisSide/AQI-to-Cigarettes-Calculator.git).
 
-## News Coverage
-- [My article about the project](https://medium.com/@jasminedevv/i-made-an-aqi-to-cigarettes-calculator-f407177c85c2)
-- [ABC4 article by Scott Lewis](https://www.abc4.com/news/local-news/online-calculator-translates-air-pollution-index-into-number-of-cigarettes-youve-smoked/)
-- [Air Quality News article by Martin Guttridge-Hewitt](https://airqualitynews.com/2023/02/07/new-air-quality-index-to-cigarettes-smoked-converter-is-it-useful/)
+Deployment plans are underway. Stay tuned for updates!
+
+## Contributions
+Feel free to fork the repository, suggest improvements, or raise issues. Contributions are always welcome to enhance the functionality and accuracy of the application.
+
+## Future Plans
+- Enhance user interface and experience
+- Add more features for better usability
+- Improve conversion accuracy with advanced data models
