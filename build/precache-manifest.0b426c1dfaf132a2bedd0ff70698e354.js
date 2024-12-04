@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "607e19b571dc8f3b24fbafb7aa6a9c6f",
+    "revision": "32af6706ee573a5ee50866c0cb35c64a",
     "url": "/AQI2cigarettes/index.html"
   },
   {
-    "revision": "02d39a78ffb7599c96b5",
-    "url": "/AQI2cigarettes/static/css/2.1d255d6e.chunk.css"
+    "revision": "cc834a3b833d12f3327d",
+    "url": "/AQI2cigarettes/static/css/2.fcdba597.chunk.css"
   },
   {
-    "revision": "fe0c76fbf5d65fd2bc61",
-    "url": "/AQI2cigarettes/static/css/main.12840231.chunk.css"
+    "revision": "fd10a4c6706c95070e63",
+    "url": "/AQI2cigarettes/static/css/main.fbe755c0.chunk.css"
   },
   {
-    "revision": "02d39a78ffb7599c96b5",
-    "url": "/AQI2cigarettes/static/js/2.1555d3c6.chunk.js"
+    "revision": "cc834a3b833d12f3327d",
+    "url": "/AQI2cigarettes/static/js/2.62e13445.chunk.js"
   },
   {
-    "revision": "1a1a42c150bd05496b97b265c552c789",
-    "url": "/AQI2cigarettes/static/js/2.1555d3c6.chunk.js.LICENSE.txt"
+    "revision": "5bd09eb7f2cf4d145d532d862be18942",
+    "url": "/AQI2cigarettes/static/js/2.62e13445.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fe0c76fbf5d65fd2bc61",
-    "url": "/AQI2cigarettes/static/js/main.10831056.chunk.js"
+    "revision": "fd10a4c6706c95070e63",
+    "url": "/AQI2cigarettes/static/js/main.c6b9ad87.chunk.js"
   },
   {
-    "revision": "9538ffc587c7d176107b",
-    "url": "/AQI2cigarettes/static/js/runtime-main.df8fef2b.js"
+    "revision": "85164086eb1758f7b233",
+    "url": "/AQI2cigarettes/static/js/runtime-main.53d1b2a3.js"
   },
   {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
